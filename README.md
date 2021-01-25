@@ -24,8 +24,8 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 
 1. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes that you could create to make reusable styles.
 2. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-3. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-4. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+3. Use semantic HTML tags and SCSS
+4. Commit your work (continously)
 
 **Have fun building!** 🚀
 
