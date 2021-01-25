@@ -29,4 +29,5 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 
 **Have fun building!** 🚀
 
+---
 Note: This challenge originated from here https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/)
